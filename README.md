@@ -8,3 +8,4 @@ Example:<br />
   ./morse_ascii ...-_.._..._...._.-_.-.._----_--_---_.-._..._._----_-.-._---_-._...-_._.-._-_._.-.<br />
   OUTPUT:<br />
   VISHAL MORSE CONVERTER<br />
+  Note: It is important that you use underscore to denote spacing in you input <br />
