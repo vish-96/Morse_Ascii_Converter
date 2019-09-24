@@ -1,10 +1,10 @@
 # Morse_Ascii_Conveter
 
 In order to use the converter. Use the executables in bin directory <br />
-Example:
-  ./ascii_morse VISHAL_MORSE_CONVERTER
-  OUTPUT:
-    ...-..........-.-..---------.-.....-----.-.----....-..-.-..-.
-  ./morse_ascii ...-_.._..._...._.-_.-.._----_--_---_.-._..._._----_-.-._---_-._...-_._.-._-_._.-.
-  OUTPUT:
-  VISHAL MORSE CONVERTER
+Example:<br />
+  ./ascii_morse VISHAL_MORSE_CONVERTER<br />
+  OUTPUT:<br />
+    ...-..........-.-..---------.-.....-----.-.----....-..-.-..-.<br />
+  ./morse_ascii ...-_.._..._...._.-_.-.._----_--_---_.-._..._._----_-.-._---_-._...-_._.-._-_._.-.<br />
+  OUTPUT:<br />
+  VISHAL MORSE CONVERTER<br />
