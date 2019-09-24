@@ -5,7 +5,7 @@ Example:<br />
   ./ascii_morse VISHAL_MORSE_CONVERTER<br />
   OUTPUT:<br />
     ...-..........-.-..---------.-.....-----.-.----....-..-.-..-.<br />
-  ./morse_ascii ...-_.._..._...._.-_.-.._----_--_---_.-._..._._----_-.-._---_-._...-_._.-._-_._.-.<br />
+  ./morse_ascii ...-_.._..._...._.-_.-.._----_--_---_.-._..._._----_-.-._---_-._...-_._.-._-_._.-._<br />
   OUTPUT:<br />
   VISHAL MORSE CONVERTER<br />
   Note: It is important that you use underscore to denote spacing in you input <br />
