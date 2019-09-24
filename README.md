@@ -1,6 +1,6 @@
 # Morse_Ascii_Conveter
 
-In order to use the converter. Use the executables in bin directory
+In order to use the converter. Use the executables in bin directory <br />
 Example:
   ./ascii_morse VISHAL_MORSE_CONVERTER
   OUTPUT:
