@@ -1,4 +1,4 @@
-# Morse_Ascii_Conveter
+# Morse_Ascii_Converter
 
 In order to use the converter. Use the executables in bin directory <br />
 Example:<br />
